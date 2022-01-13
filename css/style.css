@@ -115,6 +115,54 @@ a {
     background: #fff;
 }
 
+.texto-sobre {
+    font-family: inconsolata;
+    font-size: 20px;
+    text-align: justify;
+    color: #F0F3F4;
+}
+
+.texto-sobre h1 {
+    font-size: 35px;
+}
+
+.texto-sobre h3 {
+    margin-top: 5px;
+}
+
+.titulo-cargo {
+    color: #E74C3C;
+}
+
+.container-sobre {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-sobre div {
+    width: 40%;
+}
+
+.container-xp {
+    background-image: url("../img/fundo-xp3.png");
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.container-forma {
+    background-image: url("../img/fundo-forma.png");
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.icone-id {
+    font-size: 280px;
+    color: #F0F3F4;
+    opacity: 0.1;
+}
+
 
 
 
